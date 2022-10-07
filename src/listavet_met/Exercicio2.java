@@ -6,10 +6,15 @@ import java.util.Scanner;
 public class Exercicio2 {
 
 	public static void main(String[] args) {
+		/*
+		 * 12. Faça um método que recebe como parâmetro um vetor de números inteiros ℤ, realiza a soma de
+todos os elementos do vetor e retorna esta soma.
+		 */
 		Scanner x = new Scanner(System.in);
 		//leitura 
 		System.out.println("Informe  o tamanho do vetor: ");
 		Integer tam = x.nextInt();
+		
 		// leitura da quantidade de vetor
 
 		Integer[] vet = new Integer[tam];
