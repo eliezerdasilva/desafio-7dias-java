@@ -14,7 +14,7 @@ public class Exercicio1 {
 
 	public static void main(String[] args) {
 		/*
-		 * 10-)Faça um método que recebe dois números reais R como parâmetro e retorna a
+		 * 10-) Faça um método que recebe dois números reais R como parâmetro e retorna a
 		 * soma de ambos.
 		 * 
 		 */
